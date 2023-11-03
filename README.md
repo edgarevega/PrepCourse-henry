@@ -1,2 +1,2 @@
-# PrepCourse-henry
-Este es un repositorio de prueba del modulo 2 del Prepcourse Henry
+Esto es una prueba de clorar y guardar en mi pc
+
